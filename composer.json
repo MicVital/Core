@@ -1,5 +1,5 @@
 {
-  "name": "idavoll/core-module",
+  "name": "micvital/core-module",
   "type": "asgard-module",
   "description": "The core module for AsgardCMS. This is required for every install.",
   "keywords": [
@@ -17,7 +17,7 @@
   "support": {
     "email": "support@asgardcms.com",
     "issues": "https://github.com/AsgardCms/Platform/issues",
-    "source": "https://github.com/AsgardCms/Core"
+    "source": "https://github.com/MicVital/Core"
   },
   "require": {
     "php": ">=7.0.0",
